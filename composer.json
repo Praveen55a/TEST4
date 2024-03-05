@@ -1,11 +1,11 @@
 {
-    "name": "vijay/testpackage",
+    "name": "vijay1/testpackage",
     "description": "testing",
     "type": "projevt",
     "license": "mit",
     "autoload": {
         "psr-4": {
-            "Vijay\\Testpackage\\": "src/"
+            "Vijay1\\Testpackage\\": "src/"
         }
     },
     "authors": [
